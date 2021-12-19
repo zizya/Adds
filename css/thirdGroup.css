@@ -1,0 +1,23 @@
+
+.pbg{
+    transform: scale(0);
+}
+.ptg{
+    transform: scale(0);
+   
+}
+.pnb{
+    transform: scale(0);
+    top: 8px;
+    left: 72px;
+}
+.orange{
+    transform: scale(0);
+    top: 911px;
+    left: -11px;
+}
+.peach{
+    transform: scale(0);
+    top: 542px;
+    left: 441px;
+}

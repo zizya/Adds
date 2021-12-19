@@ -1,0 +1,26 @@
+#sn{
+    top: 1215px;
+    left: 265px;
+}
+#ar{
+    top: 826px;
+    left: 678px;
+}
+#al{
+    
+    top: 826px;
+    left: 29px;
+}
+#al:hover{
+    transition: 1s;
+   transform: scale(1.2) ;
+}
+#ar:hover{
+    transition: 1s;
+   transform: scale(1.2) ;
+   transform: translateX(50);
+}
+#sn:hover{
+    transition: 1s;
+   transform: scale(1.2) ;
+}

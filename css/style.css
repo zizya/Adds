@@ -1,0 +1,50 @@
+/* body{
+    overflow:hidden;
+  background:#000;
+} */
+#na{
+    visibility: hidden;
+}
+img{
+   
+    position:absolute;
+    
+  
+}
+/* #bg2{
+    position: absolute;
+    
+} */
+#slider{
+    position: relative;
+    left: 168px;
+    top: 656px;
+    width: 451;
+    height: 466;
+   overflow: hidden;
+   
+}
+#sliderLine{
+    display: flex;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+#pm0{
+   
+    position: relative;
+    /* visibility: visible; */
+}
+#rb0{
+    
+    position: relative;
+    /* visibility: hidden; */
+}
+#ph0{
+    
+    position: relative;
+    /* visibility: hidden; */
+}
+
+
+
